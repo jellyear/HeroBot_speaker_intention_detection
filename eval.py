@@ -1,4 +1,3 @@
-#! /usr/bin/env python
 # -*- coding: utf-8 -*-
 import json
 
@@ -21,7 +20,7 @@ else:
     x_raw, y_test = data_loader.load_dev_data_and_labels()
     y_test = np.argmax(y_test, axis=1)
 
-# checkpoint_dir이 없다면 가장 최근 dir 추출하여 셋팅
+# If no checkpoint_dir exists, extract the most recent dir and set it
 if FLAGS.checkpoint_dir == "":
     all_subdirs = ["./runs/" + d for d in os.listdir('./runs/.') if os.path.isdir("./runs/" + d)]
     latest_subdir = max(all_subdirs, key=os.path.getmtime)

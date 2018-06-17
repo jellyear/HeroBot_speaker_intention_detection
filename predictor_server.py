@@ -1,6 +1,4 @@
-#! /usr/bin/env python
 # -*- coding: utf-8 -*-
-
 import os
 import socket
 
@@ -15,7 +13,7 @@ import csv
 data_loader = MultiClassDataLoader(tf.flags, WordDataProcessor())
 data_loader.define_flags()
 
-# checkpoint_dir이 없다면 가장 최근 dir 추출하여 셋팅
+# If no checkpoint_dir exists, extract the most recent dir and set it
 if FLAGS.checkpoint_dir == "":
     all_subdirs = ["./runs/" + d for d in os.listdir('./runs/.') if os.path.isdir("./runs/" + d)]
     latest_subdir = max(all_subdirs, key=os.path.getmtime)

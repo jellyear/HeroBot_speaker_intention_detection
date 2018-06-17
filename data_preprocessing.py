@@ -1,7 +1,9 @@
 #-*- coding:utf-8 -*-
 import urllib3
 import json
- 
+
+# using morpheme analysis api 
+# http://aiopen.etri.re.kr/doc_language.php
 openApiURL = "http://aiopen.etri.re.kr:8000/WiseNLU"
 accessKey = "c40eadfc-a128-4037-9bbb-73ba36399267"
 analysisCode = "morp"
@@ -17,11 +19,11 @@ for i in range(len(txtfile)):
     with open(trainfile[i],'w',encoding='utf-8') as wf, open(tagfile, 'w', encoding='utf-8') as tf:
         for data in datas :
             if data=='' : continue
-            # extract tag
+            # Extract tag
             elif data.startswith('===') :
                 tag = data[3:].title()
                 tf.write(tag+"\n")
-            # morpheme analysis
+            # Morpheme analysis
             else :
                 requestJson = {
                     "access_key": accessKey,
@@ -40,7 +42,7 @@ for i in range(len(txtfile)):
                 )
                 string = response.data.decode('utf-8')
                 json_obj = json.loads(string)
-                
+
                 # After morpheme analysis           
                 morpdic = json_obj['return_object']['sentence'][0]['morp']
                 morptxt = ''
