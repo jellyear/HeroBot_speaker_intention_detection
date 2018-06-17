@@ -1,0 +1,6 @@
+model_checkpoint_path: "C:\\dev\\speaker_intention_detection\\runs\\1529224998\\checkpoints\\model-1800"
+all_model_checkpoint_paths: "C:\\dev\\speaker_intention_detection\\runs\\1529224998\\checkpoints\\model-1400"
+all_model_checkpoint_paths: "C:\\dev\\speaker_intention_detection\\runs\\1529224998\\checkpoints\\model-1500"
+all_model_checkpoint_paths: "C:\\dev\\speaker_intention_detection\\runs\\1529224998\\checkpoints\\model-1600"
+all_model_checkpoint_paths: "C:\\dev\\speaker_intention_detection\\runs\\1529224998\\checkpoints\\model-1700"
+all_model_checkpoint_paths: "C:\\dev\\speaker_intention_detection\\runs\\1529224998\\checkpoints\\model-1800"

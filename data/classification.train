@@ -1,0 +1,520 @@
+안녕,Hello
+안녕안녕,Hello
+안녕 하,Hello
+하이,Hello
+헬로,Hello
+반갑,Hello
+하이하이,Hello
+ㅎㅇㅎㅇ,Hello
+ㅎㅇ,Hello
+방가방가,Hello
+반갑,Hello
+반가워,Hello
+안녕 하,Hello
+안뇽,Hello
+하잉,Hello
+헬로우,Hello
+처음 뵙,Hello
+처음뵙,Hello
+Hi,Hello
+hello,Hello
+잘지내,Hello
+오랜,Hello
+너 이름 뭐,Name
+너 이름 무엇,Name
+너 이름 뭔 알리 주,Name
+너 이름 무엇 알리 주,Name
+너 이름 알 싶,Name
+너 이름 뭐,Name
+너 이름 뭐,Name
+너 이름 뭐,Name
+너 이름 어떻 되,Name
+너 이름,Name
+이름,Name
+당신 이름,Name
+당신 이름 무엇,Name
+당신 이름 어떻 되,Name
+당신 이름 알리 주,Name
+당신 이름 알 싶,Name
+당신 이름 무엇,Name
+이름 어떻 되,Name
+이름 뭐,Name
+이름 알리 주,Name
+이름 뭐,Name
+너 누구,Name
+누구,Name
+너 누구,Name
+너 누구,Name
+누구 너,Name
+너 대 하 말해줄,Name
+너 대 하 말해줄,Name
+너 대 하 얘기 하 주,Name
+누구 너,Name
+너 누구,Name
+누구 너,Name
+너 이름 무엇,Name
+너 이름 뭐,Name
+니 이름 뭐,Name
+너 이름 알 싶,Name
+너 이름 알리 주,Name
+당신 이름 알리 주,Name
+당신 이름 무엇,Name
+너 이름 알리 주,Name
+너 이름 어떻 되,Name
+어느 나라 사람,Nation
+어느 나라 사람,Nation
+너 국적 어디,Nation
+어느 나라 사람,Nation
+어느 나라 사람,Nation
+출신 나라 어디,Nation
+국적 어떻 되,Nation
+당신 국적 무엇,Nation
+너 어느 나라 사람,Nation
+너 어디 나라 사람,Nation
+너 잘 하 것 뭐,Goodjob
+잘 하 것 뭐,Goodjob
+잘 하 거 있,Goodjob
+잘 하 뭐,Goodjob
+너 잘 하 것 있,Goodjob
+잘 하 것 뭐 알리 주,Goodjob
+잘 하 말 하 주,Goodjob
+잘 하 알리 주,Goodjob
+뭐 잘 하,Goodjob
+잘 하 뭐 있,Goodjob
+잘 하 보이 주,Goodjob
+잘 하 알리 주,Goodjob
+너 잘 하 것 뭐 있,Goodjob
+너 특기 뭐,Goodjob
+어느 나라 태어나,Born
+어디 태어나,Born
+어느 나라 태어나,Born
+어느 곳 태어나,Born
+태어나 곳 어디,Born
+태어난 어디,Born
+어디 태어나 말해줄,Born
+자라 곳 어디,Livein
+자라 곳 어디,Livein
+어느 곳 자라,Livein
+어디 자라,Livein
+어느 지역 자라,Livein
+어디 살,Livein
+너 어디 살,Livein
+너 어디 살,Livein
+너 어디 있,Livein
+어디 살,Livein
+어디 살,Livein
+어디 살 있,Livein
+당신 어디 살,Livein
+당신 어디 살,Livein
+당신 어디 거주 중,Livein
+당신 어디 거주 중,Livein
+당신 어디 있,Livein
+가족 관계 어떻 되,Family
+가족 들 누구 있,Family
+가족 구성 원 누구 있,Family
+가족 구성 원 어떻 되,Family
+가족 대 하 말해줄,Family
+가족 대 하 말 하 주 수 있,Family
+가족 누구 있,Family
+가족 누구 있,Family
+가족 구성 어떻 되,Family
+가족 대 하 말 하 주,Family
+가족 대 하 말 하 주 수 있,Family
+가족 대 하 말 하 주,Family
+가족 대 하 알 싶,Family
+가족 어떻 되,Family
+너 가족 누구누구 야,Family
+너 가족 있,Family
+가족 어떻 되,Family
+가족 누구누구 있,Family
+가족 구성 어떻 되,Family
+가족 어떻 구성 되 있,Family
+아버지 누구,Fathername
+아빠 누구,Fathername
+아버지 누구,Fathername
+아버지 누구,Fathername
+아버지 대 하 알리 주,Fathername
+아버지 대 하 알리 주,Fathername
+아버지 대 하 알리 주,Fathername
+아빠 누구,Fathername
+아빠 이름 뭐,Fathername
+아빠 이름 어떻 되,Fathername
+너 네 아빠 이름 뭐,Fathername
+너 네 아빠 이름 어떻 되,Fathername
+너 네 아버지 이름 뭐,Fathername
+너 네 아버지 이름 어떻 되,Fathername
+너 네 아버지 성함 뭐,Fathername
+아빠 이름,Fathername
+아빠 성함,Fathername
+아버지 이름,Fathername
+아버지 성함,Fathername
+어머니 누구,Mothername
+어머니 누구,Mothername
+어머니 대 하 알리 주,Mothername
+어머니 대 하 알리 주,Mothername
+어머니 어떤 분,Mothername
+어머니 대 하 설명 하 주,Mothername
+어머니 어떤 분,Mothername
+엄마 누구,Mothername
+엄마 어떤 분,Mothername
+엄마 누구,Mothername
+엄마 대 하 설명 하 주,Mothername
+엄마 대 하 알리 주,Mothername
+엄마 이름 뭐,Mothername
+엄마 이름 어떻 되,Mothername
+너 네 엄마 이름 뭐,Mothername
+너 네 엄마 이름 어떻 되,Mothername
+너 네 어머니 이름 뭐,Mothername
+너 네 어머니 이름 어떻 되,Mothername
+너 네 어머니 성함 뭐,Mothername
+엄마 이름,Mothername
+엄마 성함,Mothername
+어머니 이름,Mothername
+어머니 성함,Mothername
+여자 친구 있,Girlfriend
+여자 친구 있,Girlfriend
+여친 있,Girlfriend
+너 여자 친구 있,Girlfriend
+너 여자 친구 있,Girlfriend
+너 여친있 어,Girlfriend
+여친 누구,Girlfriend
+너 걸 프렌드 있,Girlfriend
+너 여자 친구 누구,Girlfriend
+애인 있,Girlfriend
+너 애인 있,Girlfriend
+너 애인 있,Girlfriend
+애인 대 하 알리 주,Girlfriend
+여자 친구 누구,Girlfriend
+여자 친구 어떻 되,Girlfriend
+여자 친구 대 하 알리 주,Girlfriend
+여자 친구 있,Girlfriend
+여자 친구 있,Girlfriend
+여친 있,Girlfriend
+여친 누구 에요,Girlfriend
+애인 누구,Girlfriend
+사랑 하 사람 있,Girlfriend
+좋아하 사람 있,Likeperson
+좋아하 사람 대 하 말 하 주,Likeperson
+좋아하 사람 누구 에요,Likeperson
+좋아하 사람 누구,Likeperson
+좋아하 사람 누구,Likeperson
+너 누구 좋아하,Likeperson
+누구 좋아하,Likeperson
+좋아하 사람 있,Likeperson
+좋아하 사람 누구 말 하 주,Likeperson
+싫어하 사람 있,Hateperson
+싫어하 사람 대 하 말 하 주,Hateperson
+싫어하 사람 누구 에요,Hateperson
+싫어하 사람 누구,Hateperson
+싫어하 사람 누구,Hateperson
+너 누구 싫어하,Hateperson
+누구 싫어하,Hateperson
+싫어하 사람 있,Hateperson
+너 직업,Job
+직업,Job
+직업 뭐,Job
+너 직업 뭐,Job
+너 직업 무엇,Job
+너 직업 뭐,Job
+직업 대 하 설명 하 주,Job
+직업 무엇,Job
+직업 대 하 말 하 주,Job
+너 무슨 일 하,Job
+무슨 일 하,Job
+어떤 일 하,Job
+너 어떤 일 하,Job
+직업 대 하 말 하 주,Job
+너 하 일 뭐,Job
+하 일 뭐 있,Job
+하 일 대 하 알리 주,Job
+돈 어떻 벌,Job
+돈 어떻 버,Job
+돈 어떻 벌 있,Job
+네 직업 뭐,Job
+너 무슨 일 하,Job
+너 무슨 직업 가지,Job
+당신 직업 무엇,Job
+당신 직업 어떻 되,Job
+나이 어떻 되,Age
+나이 몇 살,Age
+나이 몇,Age
+나이,Age
+나이 몇 살,Age
+나이 어떻 되,Age
+나이 요,Age
+몇 살,Age
+몇 살,Age
+몇 살,Age
+몇 살,Age
+몇 살,Age
+몇 년 살,Age
+언제 태어나,Age
+너 나이 어떻 되,Age
+너 몇 살,Age
+너 몇 살,Age
+너 나이,Age
+나이,Age
+너 키 어떻 되,Height
+너 키 몇,Height
+너 키 몇 임,Height
+키 몇,Height
+키 어떻 되,Height
+키 얼마,Height
+신장 얼마,Height
+신장 몇,Height
+신장 어떻 되,Height
+신장,Height
+키,Height
+키 알리 주,Height
+키 몇,Height
+키 몇,Height
+너 키 몇,Height
+너 키 어떻 되,Height
+너 체중 몇,Weight
+체중 몇,Weight
+너 체중 어떻 되,Weight
+체중 어떻 되,Weight
+너 몸 무게 몇,Weight
+몸 무게 몇,Weight
+너 몸 무게 몇,Weight
+몸 무게 몇,Weight
+몸 무게,Weight
+너 체중 어떻 되,Weight
+너 몸 무게 몇 키로,Weight
+체중 얼마나 나가,Weight
+체중,Weight
+몇 kg,Weight
+몸 무게 어떻 되,Weight
+너 몸 무게 얼마,Weight
+토니스타크 어벤져스,Avengers
+토니 어벤져스,Avengers
+아이언맨 어벤져스,Avengers
+어벤져스 대 하 어떻 생각 하,Avengers
+어벤져스란 뭐 생각 하,Avengers
+어벤져스 뭐,Avengers
+너 어벤져스,Avengers
+어벤져스,Avengers
+어벤져스 대 하 어떻 생각 하,Avengers
+어벤져스 가장 친하 사람 누구,Bestfriend
+어벤져스 제일 친하 사람 누구,Bestfriend
+어벤져스 제일 친한사람 누구,Bestfriend
+어벤져스 누구 가장 친하,Bestfriend
+어벤져스 누구 제일 친하,Bestfriend
+어벤져스 가장 친하 멤버 누구,Bestfriend
+어벤져스 제일 친하 멤버 누구,Bestfriend
+팀 내 누구 제일 친하,Bestfriend
+팀 누구 제일 친하,Bestfriend
+팀 제일 친하 사람 있,Bestfriend
+팀 누구 가장 친하,Bestfriend
+팀 어떤 멤버 가장 친하,Bestfriend
+팀 어떤 멤버 제일 친하,Bestfriend
+어벤져스 가장 친하 사람,Bestfriend
+어벤져스 제일 친하 사람,Bestfriend
+캡틴과 사이 어떻,Captainrelation
+캡틴 사이 어떻,Captainrelation
+캡틴 화해 하,Captainrelation
+캡틴 관계 어떻,Captainrelation
+켑틴이랑 다시 친하 지내,Captainrelation
+캡틴이랑 다시 친하 지내 않 것,Captainrelation
+캡틴아메리카 사이 어떻,Captainrelation
+캡틴아메리카랑 사이 어떻,Captainrelation
+캡틴아메리카 화해 하,Captainrelation
+캡틴아메리카랑 관계 어떻,Captainrelation
+캡틴아메리카 다시 친하 지내,Captainrelation
+캡틴아메리카랑 다시 친하 지내 않 것,Captainrelation
+스티브 사이 어떻,Captainrelation
+스티브랑 사이 어떻,Captainrelation
+스티브 화해 하,Captainrelation
+스티브랑 관계 어떻,Captainrelation
+스티브랑 다시 친하 지내,Captainrelation
+스티브랑 다시 친하 지내 않 것,Captainrelation
+캡틴 어떻 생각 하,Whataboutcaptain
+캡틴 대 하 어떻 생각 하,Whataboutcaptain
+너 캡틴 어떤 존재,Whataboutcaptain
+너 캡틴 어떤 존재,Whataboutcaptain
+캡틴 어떤 사람,Whataboutcaptain
+너 캡틴,Whataboutcaptain
+너 캡틴,Whataboutcaptain
+캡틴,Whataboutcaptain
+캡틴,Whataboutcaptain
+캡틴 대 하 떠올리,Whataboutcaptain
+캡틴 대 하 생각 하,Whataboutcaptain
+캡틴 대 하 떠올리,Whataboutcaptain
+캡틴아메리카 어떻 생각 하,Whataboutcaptain
+캡틴아메리카 대 하 어떻 생각 하,Whataboutcaptain
+너 캡틴아메리카 어떤 존재,Whataboutcaptain
+너 캡틴아메리카 어떤 존재,Whataboutcaptain
+캡틴아메리카 어떤 사람,Whataboutcaptain
+너 캡틴아메리카란,Whataboutcaptain
+너 캡틴아메리카란,Whataboutcaptain
+캡틴아메리카란,Whataboutcaptain
+캡틴아메리카,Whataboutcaptain
+캡틴아메리카 대 하 떠올리,Whataboutcaptain
+캡틴아메리카 대 하 생각 하,Whataboutcaptain
+스티브 어떻 생각 하,Whataboutcaptain
+스티브 대 하 어떻 생각 하,Whataboutcaptain
+너 스티브 어떤 존재,Whataboutcaptain
+너 스티브 어떤 존재,Whataboutcaptain
+스티브 어떤 사람,Whataboutcaptain
+너 스티브란,Whataboutcaptain
+너 스티브란,Whataboutcaptain
+스티브란,Whataboutcaptain
+스티브,Whataboutcaptain
+스티브 대 하 떠올리,Whataboutcaptain
+스티브 대 하 생각 하,Whataboutcaptain
+너 하워드 스타크,Hawardstark
+하워드 스타크 대 하 어떻 생각 하,Hawardstark
+하워드 스타크 너 뭐,Hawardstark
+아빠 대 하 어떻 생각 하,Hawardstark
+아빠 너 뭐,Hawardstark
+너 아빠,Hawardstark
+너 아버지,Hawardstark
+하워드 스타크,Hawardstark
+너 하워드 스타크 어떤 존재,Hawardstark
+너 아버지 어떤 사람,Hawardstark
+아버지 어떻 생각 하,Hawardstark
+너 아버지 어떤 사람,Hawardstark
+너 아버지 어떤 존재,Hawardstark
+너 아빠 어떤 존재,Hawardstark
+아버지 어떤 분,Hawardstark
+아버지 어떤 분,Hawardstark
+아버지 어떤 분,Hawardstark
+아버지 대 하 설명 하 주,Hawardstark
+아버지 어떤 분 이,Hawardstark
+아빠 어떤 분 이,Hawardstark
+아버지 어떤 사람,Hawardstark
+아빠 어떤 사람,Hawardstark
+아버지 대 하 말해줄,Hawardstark
+아빠 대 하 말해줄,Hawardstark
+아버지 대 하 얘기해줄,Hawardstark
+아빠 대 하 얘기해줄,Hawardstark
+해머,Justinhammer
+저스틴 해머,Justinhammer
+저스틴 헤머란,Justinhammer
+저스틴 헤머 어떻 생각 하,Justinhammer
+저스틴 헤머 뭐 생각 하,Justinhammer
+저스틴 헤머 한 단어 말 하,Justinhammer
+너 저스틴 헤머란,Justinhammer
+저스틴 헤머 어떻 생각 하,Justinhammer
+저스틴 헤머 뭐 생각 하,Justinhammer
+해머 어떤 사람,Justinhammer
+저스틴 해머 어떤 사람,Justinhammer
+자비스 어떻 만들,Javishowtomake
+자비스 어떻 만들,Javishowtomake
+자비스 어떻 만든거,Javishowtomake
+자비스 어떻 만들,Javishowtomake
+자비스 만들 법 좀 알리 주,Javishowtomake
+자비스 만들 싶,Javishowtomake
+자비스 어떻 만들,Javishowtomake
+자비스 어떻 생각 하,Javis
+자비스 대 하 어떻 생각 하,Javis
+너 자비스 어떤 존재,Javis
+너 자비스 어떤 존재,Javis
+자비스 어떤 존재,Javis
+너 자비스,Javis
+너 자비스,Javis
+자비스,Javis
+자비스,Javis
+자비스 대 하 떠올리,Javis
+자비스 대 하 생각 하,Javis
+아프가니스탄 인질 잡히 때 어떻,Afganistan
+아프가니스탄 피랍 되 때 어떻,Afganistan
+아프가니스탄 습격 받 때 심정,Afganistan
+아이언맨 어떻 만든거,Ironmanmake
+아이언맨 어떻 만들,Ironmanmake
+아이언맨 어떻 만들,Ironmanmake
+아이언맨 어떻 만듦,Ironmanmake
+아이언맨 무엇 만들,Ironmanmake
+아이언맨 뭐 만들,Ironmanmake
+아이언맨 어떻 만들 알리 주,Ironmanmake
+아이언맨 만들 법 좀,Ironmanmake
+토니 아이언맨,Thinkaboutironman
+토니 아이언맨 뭐,Thinkaboutironman
+아이언맨 대 하 뭐 생각 하,Thinkaboutironman
+너 아이언맨,Thinkaboutironman
+아이언맨,Thinkaboutironman
+너 아이언맨,Thinkaboutironman
+아이언맨 뭐 생각 하,Thinkaboutironman
+너 아이언맨 뭐,Thinkaboutironman
+아이언맨 생각 하,Thinkaboutironman
+아이언맨 떠올리,Thinkaboutironman
+아이언맨 대 하 생각 하,Thinkaboutironman
+아이언맨 뭐,Thinkaboutironman
+소코비아 협정 뭐,Socobia
+소코비아 협정 뭐 하 것,Socobia
+소코비아 협정 대 하 말해줄,Socobia
+소코비아 협정,Socobia
+소코비아 협정 대 하 말애줄래,Socobia
+소코비아 협정 어떤 것,Socobia
+나 아이언맨 되 싶,Userdream
+나 꿈 아이언맨,Userdream
+나 아이언맨 되,Userdream
+아이언맨 되 싶,Userdream
+아이언맨 될래,Userdream
+나 꿈 아이언맨,Userdream
+나 아이언맨 될거,Userdream
+아이언맨 될거,Userdream
+아이언맨 되 것 나 꿈,Userdream
+아이언맨 되 것 나 목표야,Userdream
+나 아이언맨 꿈꾸,Userdream
+나 아이언맨 되 꿈 꾸,Userdream
+히어로 되고나 가장 힘들 점 있,Feelhard
+아이언맨 되고나 가장 힘들 점 있,Feelhard
+영웅 힘든,Feelhard
+영웅 힘든 있,Feelhard
+어벤져스 힘든 있,Feelhard
+어벤져스 힘든,Feelhard
+요새 힘든 거 있,Feelhard
+힘들 않,Feelhard
+힘든 거 없,Feelhard
+많이 힘들거같아,Feelhard
+안 힘들,Feelhard
+영웅 힘들 않,Feelhard
+히어로 힘들 않,Feelhard
+아이언맨 힘들 않,Feelhard
+기자 회견 때 왜 아이언맨 밝히 것,Pressconference
+기자 회견 때 왜 아이언맨 말 하 것,Pressconference
+기자 회견 왜 아이언맨 밝히 것,Pressconference
+기자 회견 왜 아이언맨 말 하 것,Pressconference
+공식 석상 왜 아이언맨 밝히 것,Pressconference
+공식 석상 왜 아이언맨 말 하 것,Pressconference
+사람 들 왜 아이언맨 말 하 것,Pressconference
+기자 들 왜 아이언맨 말 하 것,Pressconference
+사람 들 왜 아이언맨 밝히 것,Pressconference
+기자 들 왜 아이언맨 밝히 것,Pressconference
+사람 들 앞 왜 아이언맨 말 하 것,Pressconference
+기자 들 앞 왜 아이언맨 말 하 것,Pressconference
+사람 들 앞 왜 아이언맨 밝히 것,Pressconference
+기자 들 앞 왜 아이언맨 밝히 것,Pressconference
+기자 회견 때 왜 그런 것,Pressconference
+기자 회견 왜 그렇 말 하 것,Pressconference
+아이언맨 밝히 이유 뭐,Pressconference
+아이언맨 밝히 이유,Pressconference
+아이언맨 되 잘 하 거 같,Regret
+영웅 되 잘 하 것 생각 하,Regret
+히어로 된 잘 한거 생각 하,Regret
+영웅 되 것 후회 하 않,Regret
+영웅 되 것 후회 되 않,Regret
+히어로 되 것 후회 하 않,Regret
+히어로 되 것 후회 되 않,Regret
+아이언맨 되 것 후회 하 않,Regret
+아이언맨 되 것 후회 되 않,Regret
+영웅 되 선택 후회 하 적 없,Regret
+히어로 되 선택 후회 하 적 없,Regret
+후회 되 않,Regret
+후회 안해,Regret
+후회 없,Regret
+후회 안 되,Regret
+타노스란,Thanos
+타노스,Thanos
+타노스 대 하 어떻 생각 하,Thanos
+타노스 뭐,Thanos
+타노스 어떻,Thanos
+타노스 대 하 말 하 주,Thanos
+타노스 뭐,Thanos
+로마노프 쉴드 요원 알 나 기분 어떻,Romanof
+비서 쉴드 요원 알 나 기분 어떻,Romanof
+헤이 하이드라,Hydra
+하이드라,Hydra
+하이드라하이드라,Hydra
+히드라,Hydra
