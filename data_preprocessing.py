@@ -5,7 +5,7 @@ import json
 # using morpheme analysis api 
 # http://aiopen.etri.re.kr/doc_language.php
 openApiURL = "http://aiopen.etri.re.kr:8000/WiseNLU"
-accessKey = "c40eadfc-a128-4037-9bbb-73ba36399267"
+accessKey = "" # issued key
 analysisCode = "morp"
 
 txtfile = ['./data/classification.txt']
