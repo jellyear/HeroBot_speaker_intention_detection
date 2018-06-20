@@ -41,17 +41,6 @@ hello,Hello
 이름 뭐,Name
 이름 알리 주,Name
 이름 뭐,Name
-너 누구,Name
-누구,Name
-너 누구,Name
-너 누구,Name
-누구 너,Name
-너 대 하 말해줄,Name
-너 대 하 말해줄,Name
-너 대 하 얘기 하 주,Name
-누구 너,Name
-너 누구,Name
-누구 너,Name
 너 이름 무엇,Name
 너 이름 뭐,Name
 니 이름 뭐,Name
@@ -61,6 +50,31 @@ hello,Hello
 당신 이름 무엇,Name
 너 이름 알리 주,Name
 너 이름 어떻 되,Name
+너 누구,You
+누구,You
+너 누구,You
+너 누구,You
+누구 너,You
+누구 너,You
+너 누구,You
+누구 너,You
+너 대 하 말해줄,You
+너 대 하 말해줄,You
+너 대 하 얘기 하 주,You
+너이름 뜻,Namemean
+네이름 뜻,Namemean
+너이름 뜻 뭐,Namemean
+네이름 뜻 뭐,Namemean
+너 이름 뜻,Namemean
+너 이름 뜻 뭐,Namemean
+너 이름 무슨 뜻,Namemean
+너 이름 무슨 뜻 가지 있,Namemean
+너 이름 의미 뭐,Namemean
+너 이름 의미 어떻 되,Namemean
+당신 이름 뜻 무엇,Namemean
+당신 이름 뜻 무엇,Namemean
+당신 이름 뜻 무엇,Namemean
+당신 이름 뜻 무엇,Namemean
 어느 나라 사람,Nation
 어느 나라 사람,Nation
 너 국적 어디,Nation
@@ -92,6 +106,16 @@ hello,Hello
 태어나 곳 어디,Born
 태어난 어디,Born
 어디 태어나 말해줄,Born
+고향 어디,Born
+너 고향 어디 있,Born
+너 고향 어디,Born
+너 고향 어디 있,Born
+너 고향 어디 있,Born
+너 고향,Born
+고향 어디,Born
+어디 태어나,Born
+고향 어디 있,Born
+고향,Born
 자라 곳 어디,Livein
 자라 곳 어디,Livein
 어느 곳 자라,Livein
@@ -129,13 +153,51 @@ hello,Hello
 가족 누구누구 있,Family
 가족 구성 어떻 되,Family
 가족 어떻 구성 되 있,Family
+느그 아부지 뭐 하,Fatherwho
+아버지 누구,Fatherwho
+아빠 누구,Fatherwho
+아버지 누구,Fatherwho
+아버지 누구,Fatherwho
+아버지 대 하 알리 주,Fatherwho
+아버지 대 하 알리 주,Fatherwho
+아버지 대 하 알리 주,Fatherwho
+아빠 누구,Fatherwho
+아빠 이름 뭐,Fathername
+아빠 이름 모,Fathername
+아빠 이름 어떻 되,Fathername
+아빠 이름 어떻 되,Fathername
+아빠 이름,Fathername
+아빠 성함,Fathername
+아버지 이름,Fathername
+아버지 성함,Fathername
+아버지 이름 뭐,Fathername
+아버지 이름 모,Fathername
+아버지 이름 어떻 되,Fathername
+아버지 이름 어떻 되,Fathername
+너 네 아빠 이름 뭐,Fathername
+너 네 아빠 이름 어떻 되,Fathername
+너 네 아버지 이름 뭐,Fathername
+너 네 아버지 이름 어떻 되,Fathername
+너 네 아버지 성함 뭐,Fathername
+출생 비밀 뭔 데,Secretofbirth
+출생 비밀 뭐,Secretofbirth
+출생 비밀 알리 주,Secretofbirth
+무슨 출생 비밀 가지 있,Secretofbirth
+출생 비밀 말 하 주 수 있,Secretofbirth
+너 가족 관계 어떻 되,Family
+너 가족 누구누구 야,Family
+너 가족 있,Family
+가족 어떻 되,Family
+가족 누구누구 있,Family
+가족 관계 어떻 되,Family
+가족 대 하 말해줄,Family
+가족 누구 있,Family
+가족 구성 어떻 되,Family
+가족 어떻 구성 되 있,Family
 아버지 누구,Fathername
 아빠 누구,Fathername
 아버지 누구,Fathername
 아버지 누구,Fathername
-아버지 대 하 알리 주,Fathername
-아버지 대 하 알리 주,Fathername
-아버지 대 하 알리 주,Fathername
 아빠 누구,Fathername
 아빠 이름 뭐,Fathername
 아빠 이름 어떻 되,Fathername
@@ -148,18 +210,22 @@ hello,Hello
 아빠 성함,Fathername
 아버지 이름,Fathername
 아버지 성함,Fathername
-어머니 누구,Mothername
-어머니 누구,Mothername
-어머니 대 하 알리 주,Mothername
-어머니 대 하 알리 주,Mothername
-어머니 어떤 분,Mothername
-어머니 대 하 설명 하 주,Mothername
-어머니 어떤 분,Mothername
-엄마 누구,Mothername
-엄마 어떤 분,Mothername
-엄마 누구,Mothername
-엄마 대 하 설명 하 주,Mothername
-엄마 대 하 알리 주,Mothername
+친 아버지 누구,Fathername
+친 아버지 누구,Fathername
+친 아버지 어떤 분,Fathername
+친 아빠 어떻,Fathername
+친 아빠 누구,Fathername
+친 아빠 어떤 분,Fathername
+친 아버지 대 하 알리 주,Fathername
+친 아버지 대 하 알 싶,Fathername
+양 아버지 누구,Stepfatherwho
+양 아버지 누구,Stepfatherwho
+양 아버지 어떤 분,Stepfatherwho
+양 아빠 어떻,Stepfatherwho
+양 아빠 누구,Stepfatherwho
+양 아빠 어떤 분,Stepfatherwho
+양 아버지 대 하 알리 주,Stepfatherwho
+양 아버지 대 하 알 싶,Stepfatherwho
 엄마 이름 뭐,Mothername
 엄마 이름 어떻 되,Mothername
 너 네 엄마 이름 뭐,Mothername
@@ -171,6 +237,38 @@ hello,Hello
 엄마 성함,Mothername
 어머니 이름,Mothername
 어머니 성함,Mothername
+어머니 누구,Motherwho
+어머니 누구,Motherwho
+어머니 대 하 알리 주,Motherwho
+어머니 대 하 알리 주,Motherwho
+어머니 어떤 분,Motherwho
+어머니 대 하 설명 하 주,Motherwho
+어머니 어떤 분,Motherwho
+엄마 누구,Motherwho
+엄마 어떤 분,Motherwho
+엄마 누구,Motherwho
+엄마 대 하 설명 하 주,Motherwho
+엄마 대 하 알리 주,Motherwho
+엄마 이름 뭐,Mothername
+엄마 이름 어떻 되,Mothername
+너 네 엄마 이름 뭐,Mothername
+너 네 엄마 이름 어떻 되,Mothername
+너 네 어머니 이름 뭐,Mothername
+너 네 어머니 이름 어떻 되,Mothername
+너 네 어머니 성함 뭐,Mothername
+엄마 이름,Mothername
+엄마 성함,Mothername
+어머니 이름,Mothername
+어머니 성함,Mothername
+형제 있,Sibiling
+형제 관계 어떻 되,Sibiling
+형제,Sibiling
+외동,Sibiling
+형 있,Sibiling
+누나 있,Sibiling
+동생 있,Sibiling
+여 동생 있,Sibiling
+남 동생 있,Sibiling
 여자 친구 있,Girlfriend
 여자 친구 있,Girlfriend
 여친 있,Girlfriend
@@ -254,6 +352,23 @@ hello,Hello
 너 몇 살,Age
 너 나이,Age
 나이,Age
+너 남자,Mf
+너 남자,Mf
+너 여자,Mf
+너 여자,Mf
+너 남자야 , 여자,Mf
+너 남자니 , 여자,Mf
+너 여자 , 남자,Mf
+너 여자 , 남자,Mf
+너 성별 뭐,Mf
+너 성별 뭐,Mf
+당신 남자,Mf
+당신 남자,Mf
+당신 여자,Mf
+당신 여자,Mf
+당신 성별 무엇,Mf
+당신 성별 무엇,Mf
+당신 성별 알리 주,Mf
 너 키 어떻 되,Height
 너 키 몇,Height
 너 키 몇 임,Height
@@ -518,3 +633,117 @@ hello,Hello
 하이드라,Hydra
 하이드라하이드라,Hydra
 히드라,Hydra
+사부 님 이름 뭐,Sifuname
+사부 님 이름 어떻 되,Sifuname
+사부 이름 뭐,Sifuname
+사부 이름 어떻 되,Sifuname
+사부 이름 뭐,Sifuname
+사부 이름 어떻 되,Sifuname
+사부 님 성함 뭐,Sifuname
+사부 이름,Sifuname
+사부 성함,Sifuname
+사부 이름,Sifuname
+사부 성함,Sifuname
+사부 어떤 사람,Sifuwhowoname
+사부 누구,Sifuwhowoname
+사부 어떤 분,Sifuwhowoname
+사부 어떻,Sifuwhowoname
+사부 좋,Sifuwhowoname
+사부 대 하 알 싶,Sifuwhowoname
+사부 누구,Sifuwhowoname
+사부 누구,Sifuwhowoname
+사부 대 하 알리 주,Sifuwhowoname
+사부 대 하 알리 주,Sifuwhowoname
+사부 대 하 알리 주,Sifuwhowoname
+사부 누구,Sifuwhowoname
+시푸 어떤 사람,Sifuwho
+시푸 누구,Sifuwho
+시푸 어떤 분,Sifuwho
+시푸 어떻,Sifuwho
+시푸 대 하 알 싶,Sifuwho
+시푸 누구,Sifuwho
+시푸 누구,Sifuwho
+시푸 대 하 알리 주,Sifuwho
+시푸 대 하 알리 주,Sifuwho
+시푸 대 하 알리 주,Sifuwho
+시푸 누구,Sifuwho
+시푸 알,Sifuwho
+우그웨이 어떤 사람,Oogwaywho
+우그웨이 누구,Oogwaywho
+우그웨이 어떤 분,Oogwaywho
+우그웨이 어떻,Oogwaywho
+우그웨이 대 하 알 싶,Oogwaywho
+우그웨이 누구,Oogwaywho
+우그웨이 누구,Oogwaywho
+우그웨이 대 하 알리 주,Oogwaywho
+우그웨이 대 하 알리 주,Oogwaywho
+우그웨이 대 하 알리 주,Oogwaywho
+우그웨이 누구,Oogwaywho
+우그웨이 알,Oogwaywho
+제일 힘 세 사람 누구,Legendwho
+제일 무술 잘 하 사람 누구,Legendwho
+제일 쿵푸 잘 하 사람 누구,Legendwho
+최 강자 누구,Legendwho
+누구 제일 힘 세,Legendwho
+누구 제일 무술 잘 하,Legendwho
+누구 제일 최 강자,Legendwho
+누구 제일 쿵푸 잘 하,Legendwho
+무적 5 인방 누구,Thefuriousfivewho
+무적 5 인방 뭐,Thefuriousfivewho
+동료 들 좋,Thefuriousfivewho
+동료 들 어떻,Thefuriousfivewho
+동료 누구,Thefuriousfivewho
+동료 있,Thefuriousfivewho
+타이그리스 대 하 말 하 주 수 있,Tigresswho
+타이그리스 누구,Tigresswho
+타이그리스 어떻,Tigresswho
+타이그리스 어떤 사람,Tigresswho
+타이그리스 대 하 알 싶,Tigresswho
+타이그리스 어떻 싸우,Tigressskill
+타이그리스 전투 스타일 어떻,Tigressskill
+타이그리스 전투 하 때 어떻,Tigressskill
+타이그리스 어떤 식 싸우,Tigressskill
+타이그리스 싸우 때 어떻,Tigressskill
+타이그리스 어떻 사부 제자 되,Tigressmotivate
+타이그리스 어떻 너 동료 되,Tigressmotivate
+무적 5 인 방 타이그리스 어떻 들어간거,Tigressmotivate
+크레인 대 하 말 하 주 수 있,Cranewho
+크레인 누구,Cranewho
+크레인 어떻,Cranewho
+크레인 어떤 사람,Cranewho
+크레인 대 하 알 싶,Cranewho
+크레인 어떻 싸우,Craneskill
+크레인 전투 스타일 어떻,Craneskill
+크레인 전투 하 때 어떻,Craneskill
+크레인 어떤 식 싸우,Craneskill
+크레인 싸우 때 어떻,Craneskill
+바이퍼 대 하 말 하 주 수 있,Viperwho
+바이퍼 누구,Viperwho
+바이퍼 어떻,Viperwho
+바이퍼 어떤 사람,Viperwho
+바이퍼 대 하 알 싶,Viperwho
+바이퍼 어떻 싸우,Viperskill
+바이퍼 전투 스타일 어떻,Viperskill
+바이퍼 전투 하 때 어떻,Viperskill
+바이퍼 어떤 식 싸우,Viperskill
+바이퍼 싸우 때 어떻,Viperskill
+맨티스 대 하 말 하 주 수 있,Mantiswho
+맨티스 누구,Mantiswho
+맨티스 어떻,Mantiswho
+맨티스 어떤 사람,Mantiswho
+맨티스 대 하 알 싶,Mantiswho
+맨티스 어떻 싸우,Mantisskill
+맨티스 전투 스타일 어떻,Mantisskill
+맨티스 전투 하 때 어떻,Mantisskill
+맨티스 어떤 식 싸우,Mantisskill
+맨티스 싸우 때 어떻,Mantisskill
+몽키 대 하 말 하 주 수 있,Monkeywho
+몽키 누구,Monkeywho
+몽키 어떻,Monkeywho
+몽키 어떤 사람,Monkeywho
+몽키 대 하 알 싶,Monkeywho
+몽키 어떻 싸우,Monkeyskill
+몽키 전투 스타일 어떻,Monkeyskill
+몽키 전투 하 때 어떻,Monkeyskill
+몽키 어떤 식 싸우,Monkeyskill
+몽키 싸우 때 어떻,Monkeyskill
