@@ -1,8 +1,9 @@
-안녕,Hello
+﻿안녕,Hello
 안녕안녕,Hello
 안녕 하,Hello
 하이,Hello
 헬로,Hello
+만나 반갑,Hello
 반갑,Hello
 하이하이,Hello
 ㅎㅇㅎㅇ,Hello
@@ -20,6 +21,143 @@ Hi,Hello
 hello,Hello
 잘지내,Hello
 오랜,Hello
+응,Yes
+네,Yes
+예,Yes
+있,Yes
+그럼,Yes
+응응,Yes
+엉엉,Yes
+웅웅,Yes
+웅,Yes
+넹,Yes
+넵,Yes
+옙,Yes
+네엡,Yes
+그래,Yes
+그래 그래,Yes
+그럼,Yes
+그렇,Yes
+아무렴,Yes
+앙,Yes
+어,Yes
+오냐,Yes
+오냐오냐,Yes
+오케이,Yes
+ok,Yes
+ㅇ,Yes
+ㅇㅇ,Yes
+ㅇㅇㅇ,Yes
+ㅇㅇㅇㅇ,Yes
+ㅇㅇㅇㅇㅇ,Yes
+아니,No
+아니,No
+노노,No
+아니 아니,No
+없,No
+아니야,No
+노놉,No
+놉,No
+놉놉,No
+아니,No
+ㄴ,No
+ㄴㄴ,No
+ㄴㄴㄴ,No
+ㄴㄴㄴㄴ,No
+ㄴㄴㄴㄴㄴ,No
+부럽,Envy
+부럽,Envy
+좋,Envy
+너 좋,Envy
+부럽,Envy
+부러웡,Envy
+부럽,Envy
+부럽,Envy
+좋 너,Envy
+좋 ~,Envy
+부럽,Envy
+잘 모르,Ambiguous
+잘 모르,Ambiguous
+잘 모르,Ambiguous
+잘 모르,Ambiguous
+잘몰라요,Ambiguous
+잘모르 요,Ambiguous
+글쎄,Ambiguous
+글쎄다,Ambiguous
+글쎄요,Ambiguous
+글쎄올,Ambiguous
+별로,Ambiguous
+흠 모르,Ambiguous
+흠 모르 요,Ambiguous
+모르,Ambiguous
+모르,Ambiguous
+모르 요,Ambiguous
+왜,Why
+왜물어,Why
+왜묻,Why
+왜묻 니,Why
+왜,Why
+왜 묻,Why
+왜 묻,Why
+왜 묻,Why
+왜묻 것,Why
+왜 묻 것,Why
+왜 묻 말 하 주,Why
+이유 뭐,Why
+묻 이유 뭐,Why
+궁금하 거 있,Curious
+궁금하,Curious
+궁금하 거 많,Curious
+궁금하,Curious
+궁금하 거 엄청 많,Curious
+궁금하 거 매우 많,Curious
+궁금하 거 없,Curiousnot
+궁금하 않,Curiousnot
+안궁금해,Curiousnot
+궁금하 거 따위 없,Curiousnot
+물어보,Donotask
+묻 말,Donotask
+말 하 싫,Donotask
+대답 하 싫,Donotask
+왜 묻 그런 것,Donotask
+그런 건 왜 묻 것,Donotask
+왜 그런 것 묻 것,Donotask
+물어보 않 좋,Donotask
+물어보 말 주,Donotask
+물어보 말,Donotask
+묻지말지,Donotask
+묻 말,Donotask
+그런 건 묻 것 아니,Donotask
+싫,Refuse
+싫,Refuse
+거절 하,Refuse
+거절,Refuse
+비밀,Secret
+비밀,Secret
+안 알려줄,Secret
+안 알리 주 것,Secret
+안 알리 주,Secret
+너,Askback
+너,Askback
+너 어떻,Askback
+그래서 너,Askback
+그리 하,Askback
+그런데,Askback
+그런 적 있,Havebeen
+그런 적 있,Havebeen
+그런적 있,Havebeen
+그런적있지,Havebeen
+그런적 있,Havebeen
+그런적 있,Havebeen
+있,Havebeen
+있,Havebeen
+알 있,Know
+알 있,Know
+이미 알 있,Know
+이미 알 있,Know
+알 있,Know
+알,Know
+알,Know
 너 이름 뭐,Name
 너 이름 무엇,Name
 너 이름 뭔 알리 주,Name
@@ -116,12 +254,12 @@ hello,Hello
 어디 태어나,Born
 고향 어디 있,Born
 고향,Born
-자라 곳 어디,Livein
-자라 곳 어디,Livein
-어느 곳 자라,Livein
-어디 자라,Livein
-어느 지역 자라,Livein
-어디 살,Livein
+자라 곳 어디,Growin
+자라 곳 어디,Growin
+어느 곳 자라,Growin
+어디 자라,Growin
+어느 지역 자라,Growin
+어디 살,Growin
 너 어디 살,Livein
 너 어디 살,Livein
 너 어디 있,Livein
@@ -133,43 +271,97 @@ hello,Hello
 당신 어디 거주 중,Livein
 당신 어디 거주 중,Livein
 당신 어디 있,Livein
-가족 관계 어떻 되,Family
-가족 들 누구 있,Family
-가족 구성 원 누구 있,Family
-가족 구성 원 어떻 되,Family
-가족 대 하 말해줄,Family
-가족 대 하 말 하 주 수 있,Family
-가족 누구 있,Family
-가족 누구 있,Family
-가족 구성 어떻 되,Family
-가족 대 하 말 하 주,Family
-가족 대 하 말 하 주 수 있,Family
-가족 대 하 말 하 주,Family
-가족 대 하 알 싶,Family
-가족 어떻 되,Family
-너 가족 누구누구 야,Family
-너 가족 있,Family
-가족 어떻 되,Family
-가족 누구누구 있,Family
-가족 구성 어떻 되,Family
-가족 어떻 구성 되 있,Family
-느그 아부지 뭐 하,Fatherwho
+너 가족 관계 어떻 되,Familyrelation
+너 가족 누구누구 야,Familyrelation
+너 가족 있,Familyrelation
+가족 어떻 되,Familyrelation
+가족 누구누구 있,Familyrelation
+가족 관계 어떻 되,Familyrelation
+가족 대 하 말해줄,Familyrelation
+가족 누구 있,Familyrelation
+가족 구성 어떻 되,Familyrelation
+가족 어떻 구성 되 있,Familyrelation
+가족 관계 어떻 되,Familyrelation
+가족 들 누구 있,Familyrelation
+가족 구성 원 누구 있,Familyrelation
+가족 구성 원 어떻 되,Familyrelation
+가족 대 하 말해줄,Familyrelation
+가족 대 하 말 하 주 수 있,Familyrelation
+가족 누구 있,Familyrelation
+가족 누구 있,Familyrelation
+가족 구성 어떻 되,Familyrelation
+가족 대 하 말 하 주,Familyrelation
+가족 대 하 말 하 주 수 있,Familyrelation
+가족 대 하 말 하 주,Familyrelation
+가족 대 하 알 싶,Familyrelation
+가족 어떻 되,Familyrelation
+너 가족 누구누구 야,Familyrelation
+너 가족 있,Familyrelation
+가족 어떻 되,Familyrelation
+가족 누구누구 있,Familyrelation
+가족 구성 어떻 되,Familyrelation
+가족 어떻 구성 되 있,Familyrelation
+부모 님 누구 있,Parents
+부모 님 누구 있,Parents
+부모 님 누구,Parents
+부모 님 대 하 알리 주,Parents
+부모 님 대 하 말 하 주,Parents
+부모 님 누구누구 있,Parents
+부모 님 누구 계시,Parents
+부모 님 대 하 설명 하 주,Parents
+부모 님 어떻,Parents
+부모 님,Parents
 아버지 누구,Fatherwho
+아버지 누구,Fatherwho
+아버지 누구,Fatherwho
+아버님 누구,Fatherwho
+아버님 누구,Fatherwho
+아버님 누구,Fatherwho
 아빠 누구,Fatherwho
-아버지 누구,Fatherwho
-아버지 누구,Fatherwho
 아버지 대 하 알리 주,Fatherwho
 아버지 대 하 알리 주,Fatherwho
 아버지 대 하 알리 주,Fatherwho
 아빠 누구,Fatherwho
+아버님 대 하 알리 주,Fatherwho
+너 아버지 어떤 사람,Fatherwho
+아버지 어떻 생각 하,Fatherwho
+너 아버지 어떤 사람,Fatherwho
+너 아버지 어떤 존재,Fatherwho
+너 아빠 어떤 존재,Fatherwho
+아버지 어떤 분,Fatherwho
+아버지 어떤 분,Fatherwho
+아버지 어떤 분,Fatherwho
+아버지 대 하 설명 하 주,Fatherwho
+아버지 어떤 분 이,Fatherwho
+아빠 어떤 분 이,Fatherwho
+아버지 어떤 사람,Fatherwho
+아빠 어떤 사람,Fatherwho
+아버지 대 하 말해줄,Fatherwho
+아빠 대 하 말해줄,Fatherwho
+아버지 대 하 얘기해줄,Fatherwho
+아빠 대 하 얘기해줄,Fatherwho
+아빠 대 하 어떻 생각 하,Fatherwho
+아빠 너 뭐,Fatherwho
+너 아빠,Fatherwho
+너 아버지,Fatherwho
+친 아버지 누구,Fatherwho
+친 아버지 누구,Fatherwho
+친 아버지 어떤 분,Fatherwho
+친 아빠 어떻,Fatherwho
+친 아빠 누구,Fatherwho
+친 아빠 어떤 분,Fatherwho
+친 아버지 대 하 알리 주,Fatherwho
+친 아버지 대 하 알 싶,Fatherwho
 아빠 이름 뭐,Fathername
 아빠 이름 모,Fathername
 아빠 이름 어떻 되,Fathername
 아빠 이름 어떻 되,Fathername
 아빠 이름,Fathername
 아빠 성함,Fathername
+아빠 존함,Fathername
 아버지 이름,Fathername
 아버지 성함,Fathername
+아버지 존함,Fathername
 아버지 이름 뭐,Fathername
 아버지 이름 모,Fathername
 아버지 이름 어떻 되,Fathername
@@ -179,45 +371,37 @@ hello,Hello
 너 네 아버지 이름 뭐,Fathername
 너 네 아버지 이름 어떻 되,Fathername
 너 네 아버지 성함 뭐,Fathername
-출생 비밀 뭔 데,Secretofbirth
-출생 비밀 뭐,Secretofbirth
-출생 비밀 알리 주,Secretofbirth
-무슨 출생 비밀 가지 있,Secretofbirth
-출생 비밀 말 하 주 수 있,Secretofbirth
-너 가족 관계 어떻 되,Family
-너 가족 누구누구 야,Family
-너 가족 있,Family
-가족 어떻 되,Family
-가족 누구누구 있,Family
-가족 관계 어떻 되,Family
-가족 대 하 말해줄,Family
-가족 누구 있,Family
-가족 구성 어떻 되,Family
-가족 어떻 구성 되 있,Family
-아버지 누구,Fathername
-아빠 누구,Fathername
-아버지 누구,Fathername
-아버지 누구,Fathername
-아빠 누구,Fathername
-아빠 이름 뭐,Fathername
-아빠 이름 어떻 되,Fathername
-너 네 아빠 이름 뭐,Fathername
-너 네 아빠 이름 어떻 되,Fathername
-너 네 아버지 이름 뭐,Fathername
-너 네 아버지 이름 어떻 되,Fathername
-너 네 아버지 성함 뭐,Fathername
-아빠 이름,Fathername
-아빠 성함,Fathername
-아버지 이름,Fathername
-아버지 성함,Fathername
-친 아버지 누구,Fathername
-친 아버지 누구,Fathername
-친 아버지 어떤 분,Fathername
-친 아빠 어떻,Fathername
-친 아빠 누구,Fathername
-친 아빠 어떤 분,Fathername
-친 아버지 대 하 알리 주,Fathername
-친 아버지 대 하 알 싶,Fathername
+아버님 성함,Fathername
+아버님 존함,Fathername
+아버님 이름 뭐,Fathername
+아버지 직업 뭐,Fatherjob
+아버님 직업 뭐,Fatherjob
+아버지 직업 어떻 되,Fatherjob
+아빠 직업 뭐,Fatherjob
+아빠 직업 어떻 되,Fatherjob
+아빠 직업 좀 알리 주,Fatherjob
+아빠 직업 대 하 알리 주,Fatherjob
+아버지 직업 대 하 알리 주,Fatherjob
+아버님 무슨 일 하,Fatherjob
+아빠 하 일 뭐,Fatherjob
+아버님 하 일 뭐,Fatherjob
+아버지 무슨 일 하,Fatherjob
+아버지 하 일 뭐,Fatherjob
+느그 아부지 뭐 하,Fatherjob
+친 아버지 직업 뭐,Fatherjob
+친아버님 직업 뭐,Fatherjob
+친 아버지 직업 어떻 되,Fatherjob
+친아빠 직업 뭐,Fatherjob
+친아빠 직업 어떻 되,Fatherjob
+친아빠 직업 좀 알리 주,Fatherjob
+친아빠 직업 대 하 알리 주,Fatherjob
+친 아버지 직업 대 하 알리 주,Fatherjob
+친아버님 무슨 일 하,Fatherjob
+친아빠 하 일 뭐,Fatherjob
+친아버님 하 일 뭐,Fatherjob
+친 아버지 무슨 일 하,Fatherjob
+친 아버지 하 일 뭐,Fatherjob
+느그 아부지 뭐 하,Fatherjob
 양 아버지 누구,Stepfatherwho
 양 아버지 누구,Stepfatherwho
 양 아버지 어떤 분,Stepfatherwho
@@ -226,6 +410,42 @@ hello,Hello
 양 아빠 어떤 분,Stepfatherwho
 양 아버지 대 하 알리 주,Stepfatherwho
 양 아버지 대 하 알 싶,Stepfatherwho
+양아빠 이름 뭐,Stepfathername
+양아빠 이름 모,Stepfathername
+양아빠 이름 어떻 되,Stepfathername
+양아빠 이름 어떻 되,Stepfathername
+양아빠 이름,Stepfathername
+양아빠 성함,Stepfathername
+양아빠 존함,Stepfathername
+양 아버지 이름,Stepfathername
+양 아버지 성함,Stepfathername
+양 아버지 존함,Stepfathername
+양 아버지 이름 뭐,Stepfathername
+양 아버지 이름 모,Stepfathername
+양 아버지 이름 어떻 되,Stepfathername
+양 아버지 이름 어떻 되,Stepfathername
+너 네 양아빠 이름 뭐,Stepfathername
+너 네 양아빠 이름 어떻 되,Stepfathername
+너 네 양 아버지 이름 뭐,Stepfathername
+너 네 양 아버지 이름 어떻 되,Stepfathername
+너 네 양 아버지 성함 뭐,Stepfathername
+양아버님 성함,Stepfathername
+양아버님 존함,Stepfathername
+양아버님 이름 뭐,Stepfathername
+양 아버지 직업 뭐,Stepfatherjob
+양아버님 직업 뭐,Stepfatherjob
+양 아버지 직업 어떻 되,Stepfatherjob
+양아빠 직업 뭐,Stepfatherjob
+양아빠 직업 어떻 되,Stepfatherjob
+양아빠 직업 좀 알리 주,Stepfatherjob
+양아빠 직업 대 하 알리 주,Stepfatherjob
+양 아버지 직업 대 하 알리 주,Stepfatherjob
+양아버님 무슨 일 하,Stepfatherjob
+양아빠 하 일 뭐,Stepfatherjob
+양아버님 하 일 뭐,Stepfatherjob
+양 아버지 무슨 일 하,Stepfatherjob
+양 아버지 하 일 뭐,Stepfatherjob
+엄마 이름 뭐,Mothername
 엄마 이름 뭐,Mothername
 엄마 이름 어떻 되,Mothername
 너 네 엄마 이름 뭐,Mothername
@@ -233,10 +453,19 @@ hello,Hello
 너 네 어머니 이름 뭐,Mothername
 너 네 어머니 이름 어떻 되,Mothername
 너 네 어머니 성함 뭐,Mothername
+너 네 어머니 존함 뭐,Mothername
+너희 엄마 이름 뭐,Mothername
+너희 엄마 이름 어떻 되,Mothername
+너희 어머니 이름 뭐,Mothername
+너희 어머니 이름 어떻 되,Mothername
+너희 어머니 성함 뭐,Mothername
+너희 어머니 존함 뭐,Mothername
 엄마 이름,Mothername
 엄마 성함,Mothername
+엄마 존함,Mothername
 어머니 이름,Mothername
 어머니 성함,Mothername
+어머니 존함,Mothername
 어머니 누구,Motherwho
 어머니 누구,Motherwho
 어머니 대 하 알리 주,Motherwho
@@ -249,17 +478,11 @@ hello,Hello
 엄마 누구,Motherwho
 엄마 대 하 설명 하 주,Motherwho
 엄마 대 하 알리 주,Motherwho
-엄마 이름 뭐,Mothername
-엄마 이름 어떻 되,Mothername
-너 네 엄마 이름 뭐,Mothername
-너 네 엄마 이름 어떻 되,Mothername
-너 네 어머니 이름 뭐,Mothername
-너 네 어머니 이름 어떻 되,Mothername
-너 네 어머니 성함 뭐,Mothername
-엄마 이름,Mothername
-엄마 성함,Mothername
-어머니 이름,Mothername
-어머니 성함,Mothername
+출생 비밀 뭔 데,Secretofbirth
+출생 비밀 뭐,Secretofbirth
+출생 비밀 알리 주,Secretofbirth
+무슨 출생 비밀 가지 있,Secretofbirth
+출생 비밀 말 하 주 수 있,Secretofbirth
 형제 있,Sibiling
 형제 관계 어떻 되,Sibiling
 형제,Sibiling
@@ -275,22 +498,32 @@ hello,Hello
 너 여자 친구 있,Girlfriend
 너 여자 친구 있,Girlfriend
 너 여친있 어,Girlfriend
-여친 누구,Girlfriend
 너 걸 프렌드 있,Girlfriend
-너 여자 친구 누구,Girlfriend
 애인 있,Girlfriend
 너 애인 있,Girlfriend
 너 애인 있,Girlfriend
-애인 대 하 알리 주,Girlfriend
-여자 친구 누구,Girlfriend
-여자 친구 어떻 되,Girlfriend
-여자 친구 대 하 알리 주,Girlfriend
 여자 친구 있,Girlfriend
 여자 친구 있,Girlfriend
 여친 있,Girlfriend
-여친 누구 에요,Girlfriend
-애인 누구,Girlfriend
 사랑 하 사람 있,Girlfriend
+사랑 하 여자 있,Girlfriend
+여친 누구,Girlfriendname
+너 여자 친구 누구,Girlfriendname
+애인 대 하 알리 주,Girlfriendname
+여자 친구 누구,Girlfriendname
+여자 친구 어떻 되,Girlfriendname
+여자 친구 대 하 알리 주,Girlfriendname
+여친 누구 에요,Girlfriendname
+애인 누구,Girlfriendname
+여자 친구 이름 뭐,Girlfriendname
+여자 친구 이름 좀 알리 주,Girlfriendname
+여자 친구 이름 뭐 알수 있,Girlfriendname
+여친 이름 뭐,Girlfriendname
+여친 이름 뭐,Girlfriendname
+여친 이름 어떻 되,Girlfriendname
+여자 친구 이름 어떻 되,Girlfriendname
+여자 친구 이름 무엇,Girlfriendname
+여친이름,Girlfriendname
 좋아하 사람 있,Likeperson
 좋아하 사람 대 하 말 하 주,Likeperson
 좋아하 사람 누구 에요,Likeperson
@@ -369,6 +602,17 @@ hello,Hello
 당신 성별 무엇,Mf
 당신 성별 무엇,Mf
 당신 성별 알리 주,Mf
+너 여자,Female
+너 여자 아니,Female
+너 여자,Female
+너 여자,Female
+너 여자,Female
+너 여자 아니,Female
+너 여자,Female
+너 여자,Female
+당신 여자 아니,Female
+당신 여자,Female
+당신 여자,Female
 너 키 어떻 되,Height
 너 키 몇,Height
 너 키 몇 임,Height
@@ -410,21 +654,65 @@ hello,Hello
 너 어벤져스,Avengers
 어벤져스,Avengers
 어벤져스 대 하 어떻 생각 하,Avengers
-어벤져스 가장 친하 사람 누구,Bestfriend
-어벤져스 제일 친하 사람 누구,Bestfriend
-어벤져스 제일 친한사람 누구,Bestfriend
-어벤져스 누구 가장 친하,Bestfriend
-어벤져스 누구 제일 친하,Bestfriend
-어벤져스 가장 친하 멤버 누구,Bestfriend
-어벤져스 제일 친하 멤버 누구,Bestfriend
-팀 내 누구 제일 친하,Bestfriend
-팀 누구 제일 친하,Bestfriend
-팀 제일 친하 사람 있,Bestfriend
-팀 누구 가장 친하,Bestfriend
-팀 어떤 멤버 가장 친하,Bestfriend
-팀 어떤 멤버 제일 친하,Bestfriend
-어벤져스 가장 친하 사람,Bestfriend
-어벤져스 제일 친하 사람,Bestfriend
+어벤져스 가장 친하 사람 누구,Bestfriendavengers
+어벤져스 제일 친하 사람 누구,Bestfriendavengers
+어벤져스 제일 친한사람 누구,Bestfriendavengers
+어벤져스 누구 가장 친하,Bestfriendavengers
+어벤져스 누구 제일 친하,Bestfriendavengers
+어벤져스 가장 친하 멤버 누구,Bestfriendavengers
+어벤져스 제일 친하 멤버 누구,Bestfriendavengers
+팀 내 누구 제일 친하,Bestfriendavengers
+팀 누구 제일 친하,Bestfriendavengers
+팀 제일 친하 사람 있,Bestfriendavengers
+팀 누구 가장 친하,Bestfriendavengers
+팀 어떤 멤버 가장 친하,Bestfriendavengers
+팀 어떤 멤버 제일 친하,Bestfriendavengers
+동료 중 누구 제일 친하,Bestfriendavengers
+동료 중 제일 친하 사람 있,Bestfriendavengers
+동료 중 어떤 멤버 가장 친하,Bestfriendavengers
+동료 중 어떤 멤버 제일 친하,Bestfriendavengers
+누구 제일 친하,Bestfriendavengers
+제일 친하 사람 있,Bestfriendavengers
+어떤 멤버 가장 친하,Bestfriendavengers
+어떤 멤버 제일 친하,Bestfriendavengers
+어벤져스 가장 친하 사람,Bestfriendavengers
+어벤져스 제일 친하 사람,Bestfriendavengers
+어벤져스 가장 어색 하 사람 누구,Awkwardfriendavengers
+어벤져스 제일 안 친하 사람 누구,Awkwardfriendavengers
+어벤져스 제일 안 친한사람 누구,Awkwardfriendavengers
+어벤져스 누구 가장 어색 하,Awkwardfriendavengers
+어벤져스 누구 제일 어색 하,Awkwardfriendavengers
+어벤져스 누구 가장 안 친하,Awkwardfriendavengers
+어벤져스 누구 제일 안 친하,Awkwardfriendavengers
+어벤져스 가장 안 친하 멤버 누구,Awkwardfriendavengers
+어벤져스 제일 안 친하 멤버 누구,Awkwardfriendavengers
+어벤져스 가장 어색 하 멤버 누구,Awkwardfriendavengers
+어벤져스 제일 어색 하 멤버 누구,Awkwardfriendavengers
+팀 내 누구 제일 안 친하,Awkwardfriendavengers
+팀 누구 제일 안 친하,Awkwardfriendavengers
+팀 제일 안 친하 사람 있,Awkwardfriendavengers
+팀 제일 어색 하 사람 있,Awkwardfriendavengers
+팀 누구 가장 안 친하,Awkwardfriendavengers
+팀 누구 가장 어색 하,Awkwardfriendavengers
+팀 어떤 멤버 가장 안 친하,Awkwardfriendavengers
+팀 어떤 멤버 제일 안 친하,Awkwardfriendavengers
+팀 어떤 멤버 가장 어색 하,Awkwardfriendavengers
+팀 어떤 멤버 제일 어색 하,Awkwardfriendavengers
+동료 중 누구 제일 안 친하,Awkwardfriendavengers
+동료 중 제일 안 친하 사람 있,Awkwardfriendavengers
+동료 중 어떤 멤버 가장 안 친하,Awkwardfriendavengers
+동료 중 어떤 멤버 제일 안 친하,Awkwardfriendavengers
+동료 중 누구 제일 어색 하,Awkwardfriendavengers
+동료 중 어색 하 사람 있,Awkwardfriendavengers
+동료 중 가장 어색 하 사람 있,Awkwardfriendavengers
+동료 중 어떤 멤버 가장 어색 하,Awkwardfriendavengers
+동료 중 어떤 멤버 제일 어색 하,Awkwardfriendavengers
+누구 제일 어색 하,Awkwardfriendavengers
+어색 하 사람 있,Awkwardfriendavengers
+어떤 멤버 가장 어색 하,Awkwardfriendavengers
+어떤 멤버 제일 어색 하,Awkwardfriendavengers
+어벤져스 가장 어색 하 사람,Awkwardfriendavengers
+어벤져스 제일 어색 하 사람,Awkwardfriendavengers
 캡틴과 사이 어떻,Captainrelation
 캡틴 사이 어떻,Captainrelation
 캡틴 화해 하,Captainrelation
@@ -480,29 +768,8 @@ hello,Hello
 너 하워드 스타크,Hawardstark
 하워드 스타크 대 하 어떻 생각 하,Hawardstark
 하워드 스타크 너 뭐,Hawardstark
-아빠 대 하 어떻 생각 하,Hawardstark
-아빠 너 뭐,Hawardstark
-너 아빠,Hawardstark
-너 아버지,Hawardstark
 하워드 스타크,Hawardstark
 너 하워드 스타크 어떤 존재,Hawardstark
-너 아버지 어떤 사람,Hawardstark
-아버지 어떻 생각 하,Hawardstark
-너 아버지 어떤 사람,Hawardstark
-너 아버지 어떤 존재,Hawardstark
-너 아빠 어떤 존재,Hawardstark
-아버지 어떤 분,Hawardstark
-아버지 어떤 분,Hawardstark
-아버지 어떤 분,Hawardstark
-아버지 대 하 설명 하 주,Hawardstark
-아버지 어떤 분 이,Hawardstark
-아빠 어떤 분 이,Hawardstark
-아버지 어떤 사람,Hawardstark
-아빠 어떤 사람,Hawardstark
-아버지 대 하 말해줄,Hawardstark
-아빠 대 하 말해줄,Hawardstark
-아버지 대 하 얘기해줄,Hawardstark
-아빠 대 하 얘기해줄,Hawardstark
 해머,Justinhammer
 저스틴 해머,Justinhammer
 저스틴 헤머란,Justinhammer
@@ -532,29 +799,59 @@ hello,Hello
 자비스,Javis
 자비스 대 하 떠올리,Javis
 자비스 대 하 생각 하,Javis
-아프가니스탄 인질 잡히 때 어떻,Afganistan
-아프가니스탄 피랍 되 때 어떻,Afganistan
-아프가니스탄 습격 받 때 심정,Afganistan
-아이언맨 어떻 만든거,Ironmanmake
-아이언맨 어떻 만들,Ironmanmake
-아이언맨 어떻 만들,Ironmanmake
-아이언맨 어떻 만듦,Ironmanmake
-아이언맨 무엇 만들,Ironmanmake
-아이언맨 뭐 만들,Ironmanmake
-아이언맨 어떻 만들 알리 주,Ironmanmake
-아이언맨 만들 법 좀,Ironmanmake
-토니 아이언맨,Thinkaboutironman
-토니 아이언맨 뭐,Thinkaboutironman
-아이언맨 대 하 뭐 생각 하,Thinkaboutironman
-너 아이언맨,Thinkaboutironman
-아이언맨,Thinkaboutironman
-너 아이언맨,Thinkaboutironman
-아이언맨 뭐 생각 하,Thinkaboutironman
-너 아이언맨 뭐,Thinkaboutironman
-아이언맨 생각 하,Thinkaboutironman
-아이언맨 떠올리,Thinkaboutironman
-아이언맨 대 하 생각 하,Thinkaboutironman
-아이언맨 뭐,Thinkaboutironman
+아프가니스탄 인질 잡히 때 어떻,Afghanistan
+아프가니스탄 피랍 되 때 어떻,Afghanistan
+아프가니스탄 습격 받 때 심정,Afghanistan
+아이언맨 어떻 만든거,Howmake
+아이언맨 어떻 만들,Howmake
+아이언맨 어떻 만들,Howmake
+아이언맨 어떻 만듦,Howmake
+아이언맨 무엇 만들,Howmake
+아이언맨 뭐 만들,Howmake
+아이언맨 어떻 만들 알리 주,Howmake
+아이언맨 만들 법 좀,Howmake
+아이언맨 왜 만들,Whymake
+아이언맨 왜 만들 되 것,Whymake
+아이언맨 만들 이유 뭐,Whymake
+아이언맨 만들 목적 뭐,Whymake
+아이언맨 왜 만들 알리 주,Whymake
+아이언맨 만들 목적 알리 주,Whymake
+아이언맨 만들 목적 대 하 설명 하 주,Whymake
+아이언맨 만들 이유 어떻 되,Whymake
+아이언맨 만들 이유 뭐,Whymake
+왜 아이언맨 만들,Whymake
+왜 아이언맨 만든거,Whymake
+아이언맨 만들 이유 머,Whymake
+아이언맨 만들 특별 하 이유 있,Whymake
+아이언맨 제작 하 이유 뭐,Whymake
+아이언맨 제작 하 목적 뭐,Whymake
+아이언맨 제작 하 목적 뭐,Whymake
+아이언맨 제작 목적 뭐,Whymake
+아이언맨 제작 이유 뭐,Whymake
+아이언맨 제작 목적 대 하 알리 주,Whymake
+아이언맨제작 이유 대 하 설명 하 주,Whymake
+아이언맨 언제 만들,Whenmake
+아이언맨 만들 것 언제,Whenmake
+아이언맨 언제 만들,Whenmake
+아이언맨 언제 제작 하,Whenmake
+아이언맨 제작 시기 언제야,Whenmake
+아이언맨 제작 시기 언제,Whenmake
+아이언맨 제작 언제 하,Whenmake
+아이언맨 만들 것 언제 하,Whenmake
+아이언맨 만들 언제 만들 것,Whenmake
+아이언맨 언제 만들 것 좋,Whenmake
+토니 아이언맨,Whatdoyouthinkofiron
+토니 아이언맨 뭐,Whatdoyouthinkofiron
+아이언맨 대 하 뭐 생각 하,Whatdoyouthinkofiron
+너 아이언맨,Whatdoyouthinkofiron
+아이언맨,Whatdoyouthinkofiron
+너 아이언맨,Whatdoyouthinkofiron
+아이언맨 뭐 생각 하,Whatdoyouthinkofiron
+너 아이언맨 뭐,Whatdoyouthinkofiron
+아이언맨 생각 하,Whatdoyouthinkofiron
+아이언맨 떠올리,Whatdoyouthinkofiron
+아이언맨 대 하 생각 하,Whatdoyouthinkofiron
+아이언맨 뭐,Whatdoyouthinkofiron
 소코비아 협정 뭐,Socobia
 소코비아 협정 뭐 하 것,Socobia
 소코비아 협정 대 하 말해줄,Socobia
@@ -644,18 +941,18 @@ hello,Hello
 사부 성함,Sifuname
 사부 이름,Sifuname
 사부 성함,Sifuname
-사부 어떤 사람,Sifuwhowoname
-사부 누구,Sifuwhowoname
-사부 어떤 분,Sifuwhowoname
-사부 어떻,Sifuwhowoname
-사부 좋,Sifuwhowoname
-사부 대 하 알 싶,Sifuwhowoname
-사부 누구,Sifuwhowoname
-사부 누구,Sifuwhowoname
-사부 대 하 알리 주,Sifuwhowoname
-사부 대 하 알리 주,Sifuwhowoname
-사부 대 하 알리 주,Sifuwhowoname
-사부 누구,Sifuwhowoname
+사부 어떤 사람,Sifuwho
+사부 누구,Sifuwho
+사부 어떤 분,Sifuwho
+사부 어떻,Sifuwho
+사부 좋,Sifuwho
+사부 대 하 알 싶,Sifuwho
+사부 누구,Sifuwho
+사부 누구,Sifuwho
+사부 대 하 알리 주,Sifuwho
+사부 대 하 알리 주,Sifuwho
+사부 대 하 알리 주,Sifuwho
+사부 누구,Sifuwho
 시푸 어떤 사람,Sifuwho
 시푸 누구,Sifuwho
 시푸 어떤 분,Sifuwho
@@ -690,10 +987,21 @@ hello,Hello
 누구 제일 쿵푸 잘 하,Legendwho
 무적 5 인방 누구,Thefuriousfivewho
 무적 5 인방 뭐,Thefuriousfivewho
-동료 들 좋,Thefuriousfivewho
-동료 들 어떻,Thefuriousfivewho
-동료 누구,Thefuriousfivewho
 동료 있,Thefuriousfivewho
+동료 들 누구누구 있,Thefuriousfivewho
+동료 누구,Thefuriousfivewho
+동료 들 이름 뭐,Thefuriousfivewho
+동료 들 이름 알리 주,Thefuriousfivewho
+동료 들 이름 좀,Thefuriousfivewho
+동료 들 이름 좀 알리 주,Thefuriousfivewho
+동료 이름,Thefuriousfivewho
+동료 들 좋,Thefuriousfiveabout
+동료 들 좋,Thefuriousfiveabout
+동료 들 사이 좋,Thefuriousfiveabout
+동료 들 어떻,Thefuriousfiveabout
+동료 들 친하,Thefuriousfiveabout
+동료 들 친하,Thefuriousfiveabout
+동료 들,Thefuriousfiveabout
 타이그리스 대 하 말 하 주 수 있,Tigresswho
 타이그리스 누구,Tigresswho
 타이그리스 어떻,Tigresswho
@@ -747,3 +1055,62 @@ hello,Hello
 몽키 전투 하 때 어떻,Monkeyskill
 몽키 어떤 식 싸우,Monkeyskill
 몽키 싸우 때 어떻,Monkeyskill
+무적 5 인방 가장 친하 사람 누구,Bestfriendthefuriousfive
+무적 5 인방 제일 친하 사람 누구,Bestfriendthefuriousfive
+무적 5 인방 제일 친한사람 누구,Bestfriendthefuriousfive
+무적 5 인방 누구 가장 친하,Bestfriendthefuriousfive
+무적 5 인방 누구 제일 친하,Bestfriendthefuriousfive
+무적 5 인방 가장 친하 멤버 누구,Bestfriendthefuriousfive
+무적 5 인방 제일 친하 멤버 누구,Bestfriendthefuriousfive
+팀 내 누구 제일 친하,Bestfriendthefuriousfive
+팀 누구 제일 친하,Bestfriendthefuriousfive
+팀 제일 친하 사람 있,Bestfriendthefuriousfive
+팀 누구 가장 친하,Bestfriendthefuriousfive
+팀 어떤 멤버 가장 친하,Bestfriendthefuriousfive
+팀 어떤 멤버 제일 친하,Bestfriendthefuriousfive
+동료 중 누구 제일 친하,Bestfriendthefuriousfive
+동료 중 제일 친하 사람 있,Bestfriendthefuriousfive
+동료 중 어떤 멤버 가장 친하,Bestfriendthefuriousfive
+동료 중 어떤 멤버 제일 친하,Bestfriendthefuriousfive
+누구 제일 친하,Bestfriendthefuriousfive
+제일 친하 사람 있,Bestfriendthefuriousfive
+어떤 멤버 가장 친하,Bestfriendthefuriousfive
+어떤 멤버 제일 친하,Bestfriendthefuriousfive
+무적 5 인방 가장 친하 사람,Bestfriendthefuriousfive
+무정 5 인방 제일 친하 사람,Bestfriendthefuriousfive
+무적 5 인방 가장 어색 하 사람 누구,Awkwardfriendthefuriousfive
+무적 5 인방 제일 안 친하 사람 누구,Awkwardfriendthefuriousfive
+무적 5 인방 제일 안 친한사람 누구,Awkwardfriendthefuriousfive
+무적 5 인방 누구 가장 어색 하,Awkwardfriendthefuriousfive
+무적 5 인방 누구 제일 어색 하,Awkwardfriendthefuriousfive
+무적 5 인방 누구 가장 안 친하,Awkwardfriendthefuriousfive
+무적 5 인방 누구 제일 안 친하,Awkwardfriendthefuriousfive
+무적 5 인방 가장 안 친하 멤버 누구,Awkwardfriendthefuriousfive
+무적 5 인방 제일 안 친하 멤버 누구,Awkwardfriendthefuriousfive
+무적 5 인방 가장 어색 하 멤버 누구,Awkwardfriendthefuriousfive
+무적 5 인방 제일 어색 하 멤버 누구,Awkwardfriendthefuriousfive
+팀 내 누구 제일 안 친하,Awkwardfriendthefuriousfive
+팀 누구 제일 안 친하,Awkwardfriendthefuriousfive
+팀 제일 안 친하 사람 있,Awkwardfriendthefuriousfive
+팀 제일 어색 하 사람 있,Awkwardfriendthefuriousfive
+팀 누구 가장 안 친하,Awkwardfriendthefuriousfive
+팀 누구 가장 어색 하,Awkwardfriendthefuriousfive
+팀 어떤 멤버 가장 안 친하,Awkwardfriendthefuriousfive
+팀 어떤 멤버 제일 안 친하,Awkwardfriendthefuriousfive
+팀 어떤 멤버 가장 어색 하,Awkwardfriendthefuriousfive
+팀 어떤 멤버 제일 어색 하,Awkwardfriendthefuriousfive
+동료 중 누구 제일 안 친하,Awkwardfriendthefuriousfive
+동료 중 제일 안 친하 사람 있,Awkwardfriendthefuriousfive
+동료 중 어떤 멤버 가장 안 친하,Awkwardfriendthefuriousfive
+동료 중 어떤 멤버 제일 안 친하,Awkwardfriendthefuriousfive
+동료 중 누구 제일 어색 하,Awkwardfriendthefuriousfive
+동료 중 어색 하 사람 있,Awkwardfriendthefuriousfive
+동료 중 가장 어색 하 사람 있,Awkwardfriendthefuriousfive
+동료 중 어떤 멤버 가장 어색 하,Awkwardfriendthefuriousfive
+동료 중 어떤 멤버 제일 어색 하,Awkwardfriendthefuriousfive
+누구 제일 어색 하,Awkwardfriendthefuriousfive
+어색 하 사람 있,Awkwardfriendthefuriousfive
+어떤 멤버 가장 어색 하,Awkwardfriendthefuriousfive
+어떤 멤버 제일 어색 하,Awkwardfriendthefuriousfive
+무적 5 인방 가장 어색 하 사람,Awkwardfriendthefuriousfive
+무적 5 인방 제일 어색 하 사람,Awkwardfriendthefuriousfive

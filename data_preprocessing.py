@@ -5,7 +5,8 @@ import json
 # using morpheme analysis api 
 # http://aiopen.etri.re.kr/doc_language.php
 openApiURL = "http://aiopen.etri.re.kr:8000/WiseNLU"
-accessKey = "c40eadfc-a128-4037-9bbb-73ba36399267"
+#accessKey = "c40eadfc-a128-4037-9bbb-73ba36399267"
+accessKey = "386fcdc1-f5b8-4914-9774-9d964521d2a5"
 analysisCode = "morp"
 
 txtfile = ['./data/classification.txt']
@@ -17,6 +18,7 @@ for i in range(len(txtfile)):
         datas= [line.strip() for line in rf.readlines()]
         
     with open(trainfile[i],'w',encoding='utf-8') as wf, open(tagfile, 'w', encoding='utf-8') as tf:
+        tag = ''
         for data in datas :
             if data=='' : continue
             # Extract tag
