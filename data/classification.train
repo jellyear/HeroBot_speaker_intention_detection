@@ -589,10 +589,10 @@ ok,Yes
 너 남자,Mf
 너 여자,Mf
 너 여자,Mf
-너 남자야 , 여자,Mf
-너 남자니 , 여자,Mf
-너 여자 , 남자,Mf
-너 여자 , 남자,Mf
+너 남자야 여자,Mf
+너 남자니 여자,Mf
+너 여자 남자,Mf
+너 여자 남자,Mf
 너 성별 뭐,Mf
 너 성별 뭐,Mf
 당신 남자,Mf
@@ -648,7 +648,7 @@ ok,Yes
 토니스타크 어벤져스,Avengers
 토니 어벤져스,Avengers
 아이언맨 어벤져스,Avengers
-어벤져스 대 하 어떻 생각 하,Avengers
+어벤져스 대 하 어떻 생각 하,Awkwardfriendavengers
 어벤져스란 뭐 생각 하,Avengers
 어벤져스 뭐,Avengers
 너 어벤져스,Avengers

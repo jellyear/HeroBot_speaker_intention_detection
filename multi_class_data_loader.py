@@ -34,7 +34,7 @@ class MultiClassDataLoader(object):
         if max_doc_len_dev > max_doc_len:
             max_doc_len = max_doc_len_dev
         
-        # Build vocabulary
+        # Build vocabulary`
         self.vocab_processor = self.__data_processor.vocab_processor(x_train, x_dev)
         x_train = np.array(list(self.vocab_processor.fit_transform(x_train)))
         # Build vocabulary
